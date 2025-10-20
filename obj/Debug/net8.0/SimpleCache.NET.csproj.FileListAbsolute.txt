@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\SimpleCache.NET\SimpleCache.NET\bin\Debug\net8.0\SimpleCache.NET.deps.json
+C:\Users\HP\source\repos\SimpleCache.NET\SimpleCache.NET\bin\Debug\net8.0\SimpleCache.NET.dll
+C:\Users\HP\source\repos\SimpleCache.NET\SimpleCache.NET\bin\Debug\net8.0\SimpleCache.NET.pdb
+C:\Users\HP\source\repos\SimpleCache.NET\SimpleCache.NET\obj\Debug\net8.0\SimpleCache.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\SimpleCache.NET\SimpleCache.NET\obj\Debug\net8.0\SimpleCache.NET.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SimpleCache.NET\SimpleCache.NET\obj\Debug\net8.0\SimpleCache.NET.AssemblyInfo.cs
+C:\Users\HP\source\repos\SimpleCache.NET\SimpleCache.NET\obj\Debug\net8.0\SimpleCache.NET.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SimpleCache.NET\SimpleCache.NET\obj\Debug\net8.0\SimpleCache.NET.dll
+C:\Users\HP\source\repos\SimpleCache.NET\SimpleCache.NET\obj\Debug\net8.0\refint\SimpleCache.NET.dll
+C:\Users\HP\source\repos\SimpleCache.NET\SimpleCache.NET\obj\Debug\net8.0\SimpleCache.NET.pdb
+C:\Users\HP\source\repos\SimpleCache.NET\SimpleCache.NET\obj\Debug\net8.0\ref\SimpleCache.NET.dll
