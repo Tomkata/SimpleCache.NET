@@ -1,7 +1,6 @@
 # 🧠 SimpleCache.NET
 
-A lightweight, thread-safe in-memory cache library for .NET 8.  
-Perfect for learning, experimenting, or integrating simple caching into your ASP.NET or console projects.
+An educational .NET 8 in-memory caching library built for learning and experimentation.
 
 ---
 
