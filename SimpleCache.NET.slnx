@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SimpleCache.NET.TestApp/SimpleCache.NET.TestApp.csproj" />
+  <Project Path="SimpleCache.NET.Tests/SimpleCache.NET.Tests.csproj" />
+  <Project Path="SimpleCache.NET/SimpleCache.NET.csproj" />
+</Solution>

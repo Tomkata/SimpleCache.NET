@@ -1,0 +1,30 @@
+# Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Tt]est[Rr]esult*/
+[Rr]elease*/
+[Dd]ebug*/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+*.dll
+*.pdb
+*.cache
+*.exe
+
+# Others
+*.tmp
+*.bak
+*.log
+*.vsidx
+*.db
